@@ -30,7 +30,7 @@ docker run -v "$(pwd)/hadoop-map-reduce:/var/www/" --name quickstart.cloudera \
   /usr/bin/docker-quickstart
 ```
 
-## Create directory in hdfs
+### Create directory in hdfs
 
 ```
 hadoop fs -mkdir -p /var/www
