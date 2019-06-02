@@ -1,7 +1,7 @@
 # Hadoop map reduce
 
 
-## Development Environment Setup
+### Development Environment Setup
 
 1 - Clone this repository<br />
 2 - Download Cloudera’s QuickStart Docker Container <br />
@@ -30,7 +30,7 @@ docker run -v "$(pwd)/hadoop-map-reduce:/var/www/" --name quickstart.cloudera \
   /usr/bin/docker-quickstart
 ```
 
-### Create directory in hdfs
+## Create directory in hdfs
 
 ```
 hadoop fs -mkdir -p /var/www
