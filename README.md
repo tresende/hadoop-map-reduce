@@ -21,6 +21,7 @@ and
 ```
 docker image tag <HASH-HERE> cloudera-5-13 
 ```
+3 - Running container <br />
 ``` 
 docker run -v "$(pwd)/hadoop-map-reduce:/var/www/" --name quickstart.cloudera \
   --hostname=quickstart.cloudera \
