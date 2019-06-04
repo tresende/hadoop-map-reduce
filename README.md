@@ -23,15 +23,25 @@ docker image tag <HASH-HERE> cloudera-5-13
 ```
 3 - Running container <br />
 ``` 
-docker run -v "$(pwd)/hadoop-map-reduce:/var/www/" --name quickstart.cloudera \
+$ docker run -p 8888:8888 -p 7180:7180 -p 8181:80 -v "$(pwd)/Projects/hadoop-map-reduce:/var/www/" \
+  --name quickstart.cloudera \
   --hostname=quickstart.cloudera \
   -d --privileged=true \
   -t -i cloudera-5-13 \
   /usr/bin/docker-quickstart
+
+$ docker attach quickstart.cloudera
 ```
 
-## Create directory in hdfs
+
+
+## Create directory in hdfs and copy txt file
 
 ```
 hadoop fs -mkdir -p /var/www
+```
+and
+
+```
+hadoop fs -put shakespeare.txt /var/www/
 ```
