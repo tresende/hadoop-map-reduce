@@ -1,0 +1,16 @@
+Circus Circus Hotel & Casino Las Vegas	3	3773	USA	11	5	Dec-Feb	Friends	NO	YES	NO	NO	YES	YES	North America	January	Thursday
+Circus Circus Hotel & Casino Las Vegas	3	3773	USA	119	3	Dec-Feb	Business	NO	YES	NO	NO	YES	YES	North America	January	Friday
+Circus Circus Hotel & Casino Las Vegas	3	3773	USA	36	5	Mar-May	Families	NO	YES	NO	NO	YES	YES	North America	February	Saturday
+Circus Circus Hotel & Casino Las Vegas	3	3773	UK	14	4	Mar-May	Friends	NO	YES	NO	NO	YES	YES	Europe	February	Friday
+Circus Circus Hotel & Casino Las Vegas	3	3773	Canada	5	4	Mar-May	Solo	NO	YES	NO	NO	YES	YES	North America	March	Tuesday
+Circus Circus Hotel & Casino Las Vegas	3	3773	Canada	31	3	Mar-May	Couples	NO	YES	NO	NO	YES	YES	North America	March	Tuesday
+Circus Circus Hotel & Casino Las Vegas	3	3773	UK	45	4	Mar-May	Couples	NO	YES	NO	NO	YES	YES	Europe	April	Friday
+Circus Circus Hotel & Casino Las Vegas	3	3773	USA	2	4	Mar-May	Families	NO	YES	NO	NO	YES	YES	North America	April	Tuesday
+Circus Circus Hotel & Casino Las Vegas	3	3773	India	24	4	Mar-May	Friends	NO	YES	NO	NO	YES	YES	Asia	May	Saturday
+Circus Circus Hotel & Casino Las Vegas	3	3773	Canada	12	3	Mar-May	Families	NO	YES	NO	NO	YES	YES	North America	May	Tuesday
+Circus Circus Hotel & Casino Las Vegas	3	3773	USA	102	2	Jun-Aug	Families	NO	YES	NO	NO	YES	YES	North America	June	Friday
+Circus Circus Hotel & Casino Las Vegas	3	3773	Australia	20	3	Jun-Aug	Friends	NO	YES	NO	NO	YES	YES	Oceania	June	Saturday
+Circus Circus Hotel & Casino Las Vegas	3	3773	USA	7	2	Jun-Aug	Friends	NO	YES	NO	NO	YES	YES	North America	July	Wednesday
+Circus Circus Hotel & Casino Las Vegas	3	3773	USA	22	3	Jun-Aug	Friends	NO	YES	NO	NO	YES	YES	North America	July	Thursday
+Circus Circus Hotel & Casino Las Vegas	3	3773	UK	3	3	Jun-Aug	Friends	NO	YES	NO	NO	YES	YES	Europe	August	Sunday
+Circus Circus Hotel & Casino Las Vegas	3	3773	New Zeland	146	4	Jun-Aug	Families	NO	YES	NO	NO	YES	YES	Oceania	August	Saturday

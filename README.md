@@ -45,3 +45,9 @@ and
 ```
 hadoop fs -put shakespeare.txt /var/www/
 ```
+
+
+## EX1
+```
+hadoop jar /usr/hdp/current/hadoop-mapreduce-client/hadoop-streaming.jar -files MRatingCount.py,RRatingCount.py -mapper MRatingCount.py -reducer RRatingCount.py -input /hotel/hoteldata.txt -output /hrcount
+```
